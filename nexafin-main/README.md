@@ -1,4 +1,4 @@
-# 🧑‍💼 NexaFin Admin Control Panel
+# NexaFin Admin Control Panel
 
 The NexaFin Admin Control Panel is a centralized web-based management system designed to oversee and control all operations within the NexaFin financial platform. It enables administrators to efficiently manage agents, monitor client applications, and configure financial services through a structured and user-friendly interface.
 
@@ -6,7 +6,7 @@ This admin panel serves as the core control layer of the system, ensuring smooth
 
 ---
 
-## 🚀 Overview
+## Overview
 
 The Admin Panel provides complete visibility into system activities, including agent performance, client submissions, and service utilization. It allows administrators to take critical actions such as approving or rejecting applications, managing agents, and updating service configurations in real time.
 
@@ -14,40 +14,40 @@ The interface is designed with a modern and responsive layout, ensuring ease of 
 
 ---
 
-## ✨ Key Features
+## Key Features
 
-* 📊 **Dashboard & Analytics**
+*  **Dashboard & Analytics**
 
   * Real-time statistics of agents, applications, and system activity
   * Quick insights into platform performance
 
-* 👤 **Agent Management**
+*  **Agent Management**
 
   * View, add, and manage registered agents
   * Track agent performance (submissions, approvals, success rate)
 
-* 📄 **Application Management**
+*  **Application Management**
 
   * View all client submissions from the agent portal
   * Approve or reject applications with status updates
   * Maintain structured workflow control
 
-* 🧾 **Client Management**
+*  **Client Management**
 
   * Access complete client records and application history
   * View detailed client information and submitted data
 
-* 🛠️ **Service & Scheme Management**
+*  **Service & Scheme Management**
 
   * Manage financial services and schemes
   * Dynamic form builder for customizing input fields and required documents
 
-* 🔔 **Notifications & Activity Monitoring**
+*  **Notifications & Activity Monitoring**
 
   * Track recent activities such as new registrations and submissions
   * Monitor system updates in real time
 
-* ⚙️ **Settings & Configuration**
+*  **Settings & Configuration**
 
   * Manage admin profile and security settings
   * Configure platform behavior (approvals, notifications, etc.)
@@ -55,7 +55,7 @@ The interface is designed with a modern and responsive layout, ensuring ease of 
 
 ---
 
-## 🧠 System Architecture
+##  System Architecture
 
 The NexaFin Admin Panel works in coordination with the Agent Portal. Data submitted by agents is processed and controlled through the admin interface, ensuring a seamless flow of information.
 
@@ -66,7 +66,7 @@ The current implementation uses LocalStorage for frontend data handling, with th
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 The project is built using modern web technologies:
 
@@ -93,13 +93,13 @@ The project is built using modern web technologies:
 
 ---
 
-## 🎯 Purpose
+##  Purpose
 
 The Admin Control Panel is designed to provide a centralized solution for managing financial operations within the NexaFin ecosystem. It enhances efficiency by automating workflows, improving decision-making, and maintaining structured control over system data.
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 * Backend integration using PHP/MySQL or Firebase
 * Secure authentication and role-based access control
@@ -108,6 +108,6 @@ The Admin Control Panel is designed to provide a centralized solution for managi
 
 ---
 
-## 📌 Conclusion
+##  Conclusion
 
 The NexaFin Admin Panel plays a vital role in ensuring efficient system management, providing administrators with the tools required to control, monitor, and optimize platform operations in a scalable and user-friendly manner.
